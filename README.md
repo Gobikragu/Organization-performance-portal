@@ -154,6 +154,19 @@ backend/
 ## Flow chart
 <img width="864" height="737" alt="Screenshot 2026-03-04 215059" src="https://github.com/user-attachments/assets/ed018f03-17c8-437a-afcc-4f85bc67ae45" />
 
+## Employee dashboard
+<img width="15631" height="9414" alt="Frame 34" src="https://github.com/user-attachments/assets/ced4f1bc-455a-4529-a972-c7d8467f7bca" />
+
+## Admin Dashboard
+<img width="2795" height="1505" alt="Frame 33" src="https://github.com/user-attachments/assets/d3862c31-b558-485a-997b-11b65de9966e" />
+
+## 🎨Wireframe (Figma)
+
+View full design here:
+https://www.figma.com/design/jbs6cthi2PWm1DEHaNb8Rx/Untitled?node-id=75-177&t=1ww3WGYU6c7lbLUj-0
+
+
+
 
 
 
