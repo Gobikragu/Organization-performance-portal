@@ -145,3 +145,15 @@ backend/
 ├── FRONTEND_API_SERVICE.js  # Copy to React src/api.js
 └── README.md
 ```
+## ER diagram
+<img width="1413" height="735" alt="Screenshot 2026-03-04 233436" src="https://github.com/user-attachments/assets/98f32930-e64d-4dcf-be53-962b3c8f7a3f" />
+
+## Database Scheme
+<img width="1305" height="556" alt="Screenshot 2026-03-04 221003" src="https://github.com/user-attachments/assets/31a5fddd-61ea-4a01-ba62-6c35b08ae346" />
+
+## Flow chart
+<img width="864" height="737" alt="Screenshot 2026-03-04 215059" src="https://github.com/user-attachments/assets/ed018f03-17c8-437a-afcc-4f85bc67ae45" />
+
+
+
+
