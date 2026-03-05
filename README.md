@@ -145,6 +145,35 @@ backend/
 ├── FRONTEND_API_SERVICE.js  # Copy to React src/api.js
 └── README.md
 ```
+```
+my-performance-portal/
+│
+├── public/
+│   └── vite.svg                 # Static assets
+│
+├── src/
+│   ├── AdminDashboard.jsx       # Admin dashboard UI
+│   ├── Employeedashboard.jsx    # Employee dashboard UI
+│   ├── Loginpage.jsx            # Login page
+│   ├── App.jsx                  # Main application component
+│   ├── App.css                  # Global styling
+│   ├── index.css                # Base CSS styles
+│   ├── main.jsx                 # React entry point
+│   ├── api.js                   # API service for backend calls
+│   ├── theme.js                 # Theme configuration
+│   ├── ThemeToggle.jsx          # Dark/light theme toggle
+│   │
+│   └── assets/
+│       └── react.svg            # React logo asset
+│
+├── index.html                   # Main HTML template
+├── vite.config.js               # Vite configuration
+├── eslint.config.js             # ESLint configuration
+├── package.json                 # Project dependencies
+├── package-lock.json            # Dependency lock file
+├── README.md                    # Project documentation
+└── .gitignore                   # Git ignore rules
+```
 ## ER diagram
 <img width="1413" height="735" alt="Screenshot 2026-03-04 233436" src="https://github.com/user-attachments/assets/98f32930-e64d-4dcf-be53-962b3c8f7a3f" />
 
